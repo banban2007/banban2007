@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Thu Ta
+
+🚀 Full Stack Developer from Myanmar  
+💻 I build Web & Mobile Applications  
+🌱 Currently learning advanced backend & cloud deployment  
+
+---
+
+## 🧠 About Me
+- 🔭 I’m working on Django & React projects
+- 🌍 I love building fullstack applications
+- ⚡ Fun fact: I enjoy clean UI & smooth animations
+
+---
 
 
 # 💻 Tech Stack:
