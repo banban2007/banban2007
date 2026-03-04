@@ -38,6 +38,8 @@
 
 ---
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;React+%7C+Django+%7C+AWS)
+
 ## 📫 Connect With Me
 
 - Facebook: (your link)
