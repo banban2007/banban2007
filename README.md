@@ -38,9 +38,8 @@
 
 ## 📫 Connect With Me
 
-- Facebook: (your link)
-- Telegram: (your link)
-- Email: your@email.com
+- Telegram: @banban6818
+- Email: thuta.developer@gmail.com
 
 
 
