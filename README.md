@@ -30,11 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=banban2007&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banban2007&layout=compact&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=banban2007&color=blue)
 
 ---
 
