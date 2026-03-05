@@ -63,6 +63,13 @@
 
 ---
 
+
+# 🧊 3D Contribution Calendar
+
+<img src="https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/profile-night-rainbow.svg"/>
+
+---
+
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
@@ -78,6 +85,10 @@
 ---
 
 <div align="center">
+
+💻 SYSTEM STATUS: ONLINE  
+🚀 CURRENTLY BUILDING COOL PROJECTS  
+🔥 ALWAYS LEARNING  
 
 ⭐ From [Thu Ta](https://github.com/banban2007)
 
