@@ -1,46 +1,78 @@
-# Hi 👋 I'm Thu Ta 
+<h1 align="center">Hi 👋 I'm Thu Ta</h1>
 
-🚀 Full Stack Developer from Myanmar 
-💻 I build Web & Mobile Applications  
-🌱 Currently learning advanced backend & cloud deployment  
+<h3 align="center">
+Full Stack Developer from Myanmar 🇲🇲
+</h3>
 
----
-
-## 🧠 About Me
-- 🔭 I’m working on Django & React projects
-- 🌍 I love building fullstack applications
-- ⚡ Fun fact: I enjoy clean UI & smooth animations
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Django+Developer;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
+</p>
 
 ---
 
+## 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=banban2007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 📌 Featured Projects
-
-🔹 E-commerce Website (Django + React)  
-🔹 React Animated Landing Page  
-🔹 Fullstack Authentication System  
+- 🚀 Full Stack Developer
+- 💻 Building Web & Mobile Applications
+- 🌱 Currently learning advanced backend & cloud deployment
+- ⚡ Love clean UI & smooth animations
 
 ---
 
-![](https://komarev.com/ghpvc/?username=banban2007&color=blue)
+# 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+### DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
 
 ---
 
+# 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=banban2007&show_icons=true&theme=tokyonight" />
+</p>
 
-## 📫 Connect With Me
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=banban2007&theme=tokyonight" />
+</p>
 
-- Telegram: @banban6818
-- Email: thuta.developer@gmail.com
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banban2007&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
+# 🧠 Currently Learning
 
+- Advanced Django
+- Cloud Deployment
+- Microservices Architecture
 
+---
+
+# 📫 Connect With Me
+
+- Facebook: https://facebook.com/banban67599
+- Telegram: https://t.me/banban2007
+- TikTok: https://tiktok.com/@heinhtoo45
+
+---
+
+<p align="center">
+🔥 Thanks for visiting my profile 🔥
+</p>
