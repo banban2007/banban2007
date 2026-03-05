@@ -63,12 +63,6 @@
 
 ---
 
-# 🧊 3D Contribution Calendar
-
-<img src="https://raw.githubusercontent.com/banban2007/banban2007/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
----
-
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
