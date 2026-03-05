@@ -1,4 +1,6 @@
-# Hi 👋 I'm Thu Ta ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;React+%7C+Django+%7C+AWS)
+# Hi 👋 I'm Thu Ta 
+
+🚀 Full Stack Developer from Myanmar 
 💻 I build Web & Mobile Applications  
 🌱 Currently learning advanced backend & cloud deployment  
 
