@@ -71,9 +71,9 @@
 
 # 🌐 Connect With Me
 
-- Facebook → https://facebook.com/banban67599
-- Telegram → https://t.me/banban2007
-- TikTok → https://tiktok.com/@heinhtoo45
+- Telegram → https://t.me/@banban6818
+- TikTok → https://www.tiktok.com/@heinhtoo45?_r=1&_t=ZS-94SZr7xyD0m
+- Mail -> thuta.developer@gmail.com
 
 ---
 
