@@ -63,6 +63,6 @@
 🚀 CURRENTLY BUILDING COOL PROJECTS  
 🔥 ALWAYS LEARNING  
 
-⭐ From [Thu Ta](https://github.com/banban2007)
+⭐ From [Thu Ta](https://github.com/thuta-developer)
 
 </div>
